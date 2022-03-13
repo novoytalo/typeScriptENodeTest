@@ -1,0 +1,1 @@
+Fora ignorados os modulos e outras partes do node. 
